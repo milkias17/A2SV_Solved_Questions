@@ -3,6 +3,7 @@ from collections import Counter
 
 input = sys.stdin.readline
 
+
 def solve():
     n, m = map(int, input().split())
     a = list(map(int, input().split()))
@@ -23,8 +24,8 @@ def solve():
 def main():
     t = 1
     for _ in range(t):
-      solve()
+        solve()
+
 
 if __name__ == "__main__":
     main()
-
