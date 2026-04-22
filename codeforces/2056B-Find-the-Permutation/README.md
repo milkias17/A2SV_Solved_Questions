@@ -1,6 +1,6 @@
 # 2056B-Find-the-Permutation
 
-**Problem:** [2056B-Find-the-Permutation](https://codeforces.com/contest/2056/problem/B)
+**Problem:** [2056B-Find-the-Permutation](https://codeforces.com/problemset/problem/2056/B)
 
 **time limit per test:** 1.5 seconds
 
